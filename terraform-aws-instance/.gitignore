@@ -1,0 +1,6 @@
+.terraform.**
+terraform-*
+terraform.tfstate.backup
+terraform.tfstate
+terraform.tfstate.json
+modules.json

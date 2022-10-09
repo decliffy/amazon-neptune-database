@@ -1,0 +1,28 @@
+~id, name:String, speciality:String, publish_date:String, ~label
+Doctor1,"John","psychosomatic medicine", ,person
+Doctor2,"Bob","respiratory medicine", ,person
+Doctor3,"Alice","gastroenterology", ,person
+Doctor4,"Terry","neurology", ,person
+Doctor5,"Ken","cardiology", ,person
+Doctor6,"Peter","neurology", ,person
+MR1,"Mashiko", , ,person
+MR2,"Koizumi", , ,person
+MR3,"Ishio", , ,person
+Paper1,"Example1", ,"2000-05-13",paper
+Paper2,"Example2", ,"2005-01-20",paper
+Paper3,"Example3", ,"2010-06-20",paper
+Paper4,"Example4", ,"2018-11-13",paper
+Paper5,"Example5", ,"2020-08-13",paper
+Prod1,"A medicine", , ,product
+Prod2,"B medicine", , ,product
+Prod3,"C medicine", , ,product
+Prod4,"D medicine", , ,product
+Prod5,"E medicine", , ,product
+Conf1,"X conference", , ,conference
+Conf2,"Y conference", , ,conference
+Conf3,"Z conference", , ,conference
+Inst1,"A hospital", , ,institution
+Inst2,"B hospital", , ,institution
+Inst3,"C Univ", , ,institution
+Inst4,"A pharma", , ,institution
+Inst5,"B pharma", , ,institution
