@@ -25,7 +25,7 @@ resource "aws_security_group" "ec2_connect_sg" {
     from_port   = 22
     to_port     = 22
     protocol    = "tcp"
-    cidr_blocks = ["110.226.182.234/32"]
+    cidr_blocks = ["110.226.178.70/32"]
   }
 
   #Outgoing traffic

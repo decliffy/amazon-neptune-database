@@ -7,7 +7,7 @@ sudo /usr/sbin/alternatives --auto java
 
 cd /usr/local/share/applications
 
-wget https://archive.apache.org/dist/tinkerpop/3.6.1/apache-tinkerpop-gremlin-console-3.5.2-bin.zip
+wget https://archive.apache.org/dist/tinkerpop/3.5.2/apache-tinkerpop-gremlin-console-3.5.2-bin.zip
 
 unzip apache-tinkerpop-gremlin-console-3.5.2-bin.zip
 
