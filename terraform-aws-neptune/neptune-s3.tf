@@ -4,6 +4,8 @@ module "s3_bucket" {
   bucket = "neptune-bulkloader-bucket"
   acl    = "private"
 
+  # Allow deletion of non-empty bucket
+  force_destroy = true
   versioning = {
     enabled = false
   }
