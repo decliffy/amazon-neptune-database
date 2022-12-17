@@ -1,4 +1,4 @@
-# Setting up & using Amazon Neptune Grap Database
+# Setting up & using Amazon Neptune Graph Database
 Deep explorations of graphs with Amazon Neptune database.
 
 
